@@ -1,5 +1,7 @@
 Alphabet Soup Charity Deep Learning Challenge
+
 Overview
+
 This README provides instructions for preprocessing data, building and optimizing a neural network model, and documenting the results for the Alphabet Soup Charity dataset. The process is divided into five key steps: preprocessing the data, compiling and training the model, optimizing the model, writing a report, and finalizing the submission.
 
 Step 1: Preprocess the Data
