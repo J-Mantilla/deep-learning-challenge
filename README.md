@@ -1,3 +1,16 @@
+Overview
+The purpose of this analysis was to develop a deep learning model to predict the success of charitable donations using the dataset provided by 'Alphabet Soup.' The goal was to create a neural network that accurately classifies whether an application will be successful based on various features such as organization type, income amount, asking amount, and affiliated industry.
+
+The analysis was carried out in two stages:
+
+Model Development:
+
+The initial model was developed using the 'Starter_Code.ipynb' file in Google Colab. This involved preprocessing the data, including handling categorical variables, splitting the dataset into training and testing sets, and scaling the features.
+A Sequential neural network model was created and trained with different input dimensions, activation functions, and nodes. The model was compiled and evaluated for its performance.
+Model Optimization:
+
+The model was further refined in the 'AlphabetSoupCharity_Optimization.ipynb' file to achieve a predictive accuracy greater than 75%. Optimization involved adjusting the model architecture and training parameters.
+
 Steps
 Step 1: Preprocess the Data
 
