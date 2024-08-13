@@ -1,4 +1,5 @@
 Overview
+
 The purpose of this analysis was to develop a deep learning model to predict the success of charitable donations using the dataset provided by 'Alphabet Soup.' The goal was to create a neural network that accurately classifies whether an application will be successful based on various features such as organization type, income amount, asking amount, and affiliated industry.
 
 The analysis was carried out in two stages:
