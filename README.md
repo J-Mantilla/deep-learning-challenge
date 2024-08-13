@@ -40,6 +40,7 @@ Scale Features
 
 Instantiate a StandardScaler.
 Fit the scaler on the training data and transform both the training and testing features.
+
 Step 2: Compile, Train, and Evaluate the Model
 Design Neural Network
 
@@ -61,6 +62,7 @@ Assess the model’s performance on the test data, calculating loss and accuracy
 Save the Model
 
 Export the model to an HDF5 file named AlphabetSoupCharity.h5.
+
 Step 3: Optimize the Model
 Create a New Colab File
 
@@ -74,6 +76,7 @@ Adjust the model by adding or reducing neurons, hidden layers, changing activati
 Save the Optimized Model
 
 Export the optimized model to an HDF5 file named AlphabetSoupCharity_Optimization.h5.
+
 Step 4: Write a Report on the Neural Network Model
 Overview
 
