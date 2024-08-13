@@ -8,6 +8,7 @@ Model Development:
 
 The initial model was developed using the 'Starter_Code.ipynb' file in Google Colab. This involved preprocessing the data, including handling categorical variables, splitting the dataset into training and testing sets, and scaling the features.
 A Sequential neural network model was created and trained with different input dimensions, activation functions, and nodes. The model was compiled and evaluated for its performance.
+
 Model Optimization:
 
 The model was further refined in the 'AlphabetSoupCharity_Optimization.ipynb' file to achieve a predictive accuracy greater than 75%. Optimization involved adjusting the model architecture and training parameters.
