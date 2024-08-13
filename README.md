@@ -27,6 +27,7 @@ Analyze & Encode:
 Identify unique values, combine rare categories into "Other," and use pd.get_dummies() for encoding.
 Split & Scale:
 Create feature (X) and target (y) arrays, split into training and testing sets, then scale features with StandardScaler.
+
 Step 2: Compile, Train, and Evaluate the Model
 
 Design & Build:
@@ -35,6 +36,7 @@ Compile & Train:
 Add and compile layers, include a callback to save weights every five epochs, and train the model.
 Evaluate & Save:
 Evaluate the model's performance, then save it to AlphabetSoupCharity.h5.
+
 Step 3: Optimize the Model
 
 Setup:
@@ -43,6 +45,7 @@ Preprocess:
 Repeat preprocessing with any necessary adjustments.
 Optimize & Save:
 Refine the model to exceed 75% accuracy by adjusting parameters, then save to AlphabetSoupCharity_Optimization.h5.
+
 Step 4: Write a Report
 
 Overview:
