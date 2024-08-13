@@ -13,6 +13,9 @@ Model Optimization:
 
 The model was further refined in the 'AlphabetSoupCharity_Optimization.ipynb' file to achieve a predictive accuracy greater than 75%. Optimization involved adjusting the model architecture and training parameters.
 
+The preprocessing steps included establishing cutoffs for features with many unique values, converting categorical data to numeric format, and scaling the data. The final model was optimized to enhance its performance and accuracy in predicting the success of charitable applications.
+
+
 Steps
 Step 1: Preprocess the Data
 
