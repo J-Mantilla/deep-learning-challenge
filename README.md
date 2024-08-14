@@ -36,6 +36,7 @@ The model trained for 100 epochs, resulting in a loss of 0.5804 and an accuracy 
 Third Test:
 
 Change the two hidden layers to activiation='sigmoid' and epochs=200
+
 The model achieved a Loss: 0.5558, Accuracy: 0.73%
 
 Summary:
